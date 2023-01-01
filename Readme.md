@@ -34,34 +34,35 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 2| 3   |[OOP Principles - Inheritance](https://github.com/Tuwaiq-Academy-Training/Java-Lombok-Validation-Service)| [Homework 6](https://github.com/Tuwaiq-Academy-Training/Java-Homework-6)|
 | Week 2| 4   |[Abstraction](https://github.com/Tuwaiq-Academy-Training/Project-based-Spring-boot-application)| [Homework 7](https://github.com/Tuwaiq-Academy-Training/Java-Homework-7)|
 | Week 2| 5   |[Polymorphism - Encapsulation](https://github.com/Tuwaiq-Academy-Training/Java-Exercises)| [Project 2](https://github.com/Tuwaiq-Java/Project-2)|
-| Week 3| 1   |[SQL-Repository-JPA](https://github.com/Tuwaiq-Academy-Training/Java-SQL-Repository-JPA)| [Homework 8](https://github.com/Tuwaiq-Academy-Training/Java-Homework-8)|
-| Week 3| 2   |[JPQL](https://github.com/Tuwaiq-Academy-Training/Java-JPQL)| [Homework 9](https://github.com/Tuwaiq-Academy-Training/Java-Homework-9)|
-| Week 3| 3   |[Relationship](https://github.com/Tuwaiq-Academy-Training/Java-Relationship)| [Homework 10](https://github.com/Tuwaiq-Academy-Training/Java-Homework-10)|
-| Week 3| 4   |[Exceptions handling ,logs tracking](https://github.com/Tuwaiq-Academy-Training/Java-Exceptions-handling-logs-tracking)| [Homework 11](https://github.com/Tuwaiq-Academy-Training/Java-Homework-11)|
-| Week 3| 5   |[Exercises](https://github.com/Tuwaiq-Academy-Training/Java-Exercises-2)| [Project 3](https://github.com/Tuwaiq-Java/week-03-day-05-hw)|
-| Week 4| 1   |[Spring security authentication and authorization](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
-| Week 4| 2   |[Final project 1](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 4| 3   |[Final project 2](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 4| 4   |[Final project 3](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 4| 5   |[Final project 4](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 5| 1   |[Spring security authentication and authorization](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
-| Week 5| 2   |[Final project 1](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 5| 3   |[Final project 2](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 5| 4   |[Final project 3](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 5| 5   |[Final project 4](https://github.com/Tuwaiq-Java/Capstone-project)|---|| Week 4| 1   |[Spring security authentication and authorization](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
-| Week 6| 2   |[Final project 1](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 6| 3   |[Final project 2](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 6| 4   |[Final project 3](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 6| 5   |[Final project 4](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 7| 1   |[Spring security authentication and authorization](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
-| Week 7| 2   |[Final project 1](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 7| 3   |[Final project 2](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 7| 4   |[Final project 3](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 7| 5   |[Final project 4](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 8| 1   |[Spring security authentication and authorization](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
-| Week 8| 2   |[Final project 1](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 8| 3   |[Final project 2](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 8| 4   |[Final project 3](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 8| 5   |[Final project 4](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 3| 1   |[Introduction to Spring Boot](https://github.com/Tuwaiq-Academy-Training/Java-SQL-Repository-JPA)| [Homework 8](https://github.com/Tuwaiq-Academy-Training/Java-Homework-8)|
+| Week 3| 2   |[Annotations - JSON - Controller layer](https://github.com/Tuwaiq-Academy-Training/Java-JPQL)| [Homework 9](https://github.com/Tuwaiq-Academy-Training/Java-Homework-9)|
+| Week 3| 3   |[REST](https://github.com/Tuwaiq-Academy-Training/Java-Relationship)| [Homework 10](https://github.com/Tuwaiq-Academy-Training/Java-Homework-10)|
+| Week 3| 4   |[Validation](https://github.com/Tuwaiq-Academy-Training/Java-Exceptions-handling-logs-tracking)| [Homework 11](https://github.com/Tuwaiq-Academy-Training/Java-Homework-11)|
+| Week 3| 5   |[Service Layer](https://github.com/Tuwaiq-Academy-Training/Java-Exercises-2)| [Project 3](https://github.com/Tuwaiq-Java/week-03-day-05-hw)|
+| Week 4| 1   |[Databases Introduction](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
+| Week 4| 2   |[Java persistence API (JPA)](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 4| 3   |[Repository Layer](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 4| 4   |[JPA Relationship I](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 4| 5   |[JPA Relationship II](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 5| 1   |[JPA Relationship III](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
+| Week 5| 2   |[Logs Tracking](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 5| 3   |[Exceptions handling](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 5| 4   |[Controller Advise](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 5| 5   |[Exercises](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 6| 1   |[Spring Security](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
+| Week 6| 2   |[Authentication](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 6| 3   |[Authorization](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 6| 4   |[JUnit I](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 6| 5   |[JUnit II](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 7| 1   |[Thymeleaf](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
+| Week 7| 2   |[Deployment](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 7| 3   |[Final project](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 7| 4   |[Final project](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 7| 5   |[Final project](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 8| 1   |[Final project](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
+| Week 8| 2   |[Final project](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 8| 3   |[Final project](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 8| 4   |[Final project](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 8| 5   |[Final project](https://github.com/Tuwaiq-Java/Capstone-project)|---|
 
 
