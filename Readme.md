@@ -24,16 +24,16 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 
 | Week   | Day | Lesson | Homework |
 |:-----:|:---:|:------:|:------:|
-| Week 1| 1   |[Web development introduction](https://github.com/Tuwaiq-Academy-Training/Java-Web-Development-Introduction)|--- |
-| Week 1| 2   |[Java basics](https://github.com/Tuwaiq-Academy-Training/Java-Basics)|[Homework 1](https://github.com/Tuwaiq-Academy-Training/Java-Homework-1)|
-| Week 1| 3   |[Arrays-Methods](https://github.com/Tuwaiq-Academy-Training/Java-Arrays-Methods)|[Homework 2](https://github.com/Tuwaiq-Academy-Training/Java-Homework-2)|
-| Week 1| 4   |[Exceptions- Programming paradigms ](https://github.com/Tuwaiq-Academy-Training/Java-Exceptions-Programming-Paradigms)|[Homework 3](https://github.com/Tuwaiq-Academy-Training/Java-Homework-3)|
-| Week 1| 5   |[Static keywords-Access modifiers  OOP principles](https://github.com/Tuwaiq-Academy-Training/Java-Static-keywords-Access-modifiers-OOP-principles) | [Project 1](https://github.com/Tuwaiq-Java/week-01-day-05-hw)|
-| Week 2| 1   |[Intro to Spring-Beans-Controller](https://github.com/Tuwaiq-Academy-Training/Java-Intro-to-Spring-Beans-Controller)| [Homework 4](https://github.com/Tuwaiq-Academy-Training/Java-Homework-4)|
-| Week 2| 2   |[JSON-REST-CRUD](https://github.com/Tuwaiq-Academy-Training/Java-JSON-REST-CRUD)| [Homework 5](https://github.com/Tuwaiq-Academy-Training/Java-Homework-5)|
-| Week 2| 3   |[Lombok-Validation-Service](https://github.com/Tuwaiq-Academy-Training/Java-Lombok-Validation-Service)| [Homework 6](https://github.com/Tuwaiq-Academy-Training/Java-Homework-6)|
-| Week 2| 4   |[Project based - Spring boot application](https://github.com/Tuwaiq-Academy-Training/Project-based-Spring-boot-application)| [Homework 7](https://github.com/Tuwaiq-Academy-Training/Java-Homework-7)|
-| Week 2| 5   |[Exercises](https://github.com/Tuwaiq-Academy-Training/Java-Exercises)| [Project 2](https://github.com/Tuwaiq-Java/Project-2)|
+| Week 1| 1   |[Java introduction](https://github.com/Tuwaiq-Academy-Training/Java-Web-Development-Introduction)|--- |
+| Week 1| 2   |[Java basics - Conditional statements](https://github.com/Tuwaiq-Academy-Training/Java-Basics)|[Homework 1](https://github.com/Tuwaiq-Academy-Training/Java-Homework-1)|
+| Week 1| 3   |[Loops](https://github.com/Tuwaiq-Academy-Training/Java-Arrays-Methods)|[Homework 2](https://github.com/Tuwaiq-Academy-Training/Java-Homework-2)|
+| Week 1| 4   |[Arrays](https://github.com/Tuwaiq-Academy-Training/Java-Exceptions-Programming-Paradigms)|[Homework 3](https://github.com/Tuwaiq-Academy-Training/Java-Homework-3)|
+| Week 1| 5   |[Methods](https://github.com/Tuwaiq-Academy-Training/Java-Static-keywords-Access-modifiers-OOP-principles) | [Project 1](https://github.com/Tuwaiq-Java/week-01-day-05-hw)|
+| Week 2| 1   |[Types of Errors - Exceptions](https://github.com/Tuwaiq-Academy-Training/Java-Intro-to-Spring-Beans-Controller)| [Homework 4](https://github.com/Tuwaiq-Academy-Training/Java-Homework-4)|
+| Week 2| 2   |[Programming Paradigms](https://github.com/Tuwaiq-Academy-Training/Java-JSON-REST-CRUD)| [Homework 5](https://github.com/Tuwaiq-Academy-Training/Java-Homework-5)|
+| Week 2| 3   |[OOP Principles - Inheritance](https://github.com/Tuwaiq-Academy-Training/Java-Lombok-Validation-Service)| [Homework 6](https://github.com/Tuwaiq-Academy-Training/Java-Homework-6)|
+| Week 2| 4   |[Abstraction](https://github.com/Tuwaiq-Academy-Training/Project-based-Spring-boot-application)| [Homework 7](https://github.com/Tuwaiq-Academy-Training/Java-Homework-7)|
+| Week 2| 5   |[Polymorphism - Encapsulation](https://github.com/Tuwaiq-Academy-Training/Java-Exercises)| [Project 2](https://github.com/Tuwaiq-Java/Project-2)|
 | Week 3| 1   |[SQL-Repository-JPA](https://github.com/Tuwaiq-Academy-Training/Java-SQL-Repository-JPA)| [Homework 8](https://github.com/Tuwaiq-Academy-Training/Java-Homework-8)|
 | Week 3| 2   |[JPQL](https://github.com/Tuwaiq-Academy-Training/Java-JPQL)| [Homework 9](https://github.com/Tuwaiq-Academy-Training/Java-Homework-9)|
 | Week 3| 3   |[Relationship](https://github.com/Tuwaiq-Academy-Training/Java-Relationship)| [Homework 10](https://github.com/Tuwaiq-Academy-Training/Java-Homework-10)|
