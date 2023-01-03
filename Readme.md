@@ -24,11 +24,11 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 
 | Week   | Day | Lesson | Homework |
 |:-----:|:---:|:------:|:------:|
-| Week 1| 1   |[Java introduction](https://github.com/Tuwaiq-Academy-Training/Java-Web-Development-Introduction)|--- |
-| Week 1| 2   |[Java basics - Conditional statements](https://github.com/Tuwaiq-Academy-Training/Java-Basics)|[Homework 1](https://github.com/Tuwaiq-Academy-Training/Java-Homework-1)|
-| Week 1| 3   |[Loops](https://github.com/Tuwaiq-Academy-Training/Java-Arrays-Methods)|[Homework 2](https://github.com/Tuwaiq-Academy-Training/Java-Homework-2)|
-| Week 1| 4   |[Arrays](https://github.com/Tuwaiq-Academy-Training/Java-Exceptions-Programming-Paradigms)|[Homework 3](https://github.com/Tuwaiq-Academy-Training/Java-Homework-3)|
-| Week 1| 5   |[Methods](https://github.com/Tuwaiq-Academy-Training/Java-Static-keywords-Access-modifiers-OOP-principles) | [Project 1](https://github.com/Tuwaiq-Java/week-01-day-05-hw)|
+| Week 1| 1   |[Java introduction](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-JavaIntroduction)|--- |
+| Week 1| 2   |[Java basics - Conditional statements](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-JavaBasics)|[Homework 1](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW1)|
+| Week 1| 3   |[Loops](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Loops)|[Homework 2](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW2)|
+| Week 1| 4   |[Arrays](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Arrays)|[Homework 3](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW3)|
+| Week 1| 5   |[Methods](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Methods) | [Project 1](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project1)|
 | Week 2| 1   |[Types of Errors - Exceptions](https://github.com/Tuwaiq-Academy-Training/Java-Intro-to-Spring-Beans-Controller)| [Homework 4](https://github.com/Tuwaiq-Academy-Training/Java-Homework-4)|
 | Week 2| 2   |[Programming Paradigms](https://github.com/Tuwaiq-Academy-Training/Java-JSON-REST-CRUD)| [Homework 5](https://github.com/Tuwaiq-Academy-Training/Java-Homework-5)|
 | Week 2| 3   |[OOP Principles - Inheritance](https://github.com/Tuwaiq-Academy-Training/Java-Lombok-Validation-Service)| [Homework 6](https://github.com/Tuwaiq-Academy-Training/Java-Homework-6)|
