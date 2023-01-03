@@ -30,7 +30,7 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 1| 4   |[Arrays](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Arrays)|[Homework 4](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW3)|
 | Week 1| 5   |[Methods](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Methods) | [Project 1](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project1)|
 | Week 2| 1   |[Types of Errors - Exceptions](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-ErrorsAndExceptions)| [Homework 6](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW4)|
-| Week 2| 2   |[Programming Paradigms]([https://github.com/Tuwaiq-Academy-Training/Java-JSON-REST-CRUD](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-ProgramingParadigms))| [Homework 7](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW5)|
+| Week 2| 2   |[Programming Paradigms](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-ProgramingParadigms)| [Homework 7](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW5)|
 | Week 2| 3   |[OOP Principles - Inheritance](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-OOP-Inheritance)| [Homework 8](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW6)|
 | Week 2| 4   |[Abstraction](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Abstraction)| [Homework 9](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW9)|
 | Week 2| 5   |[Polymorphism - Encapsulation](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Polymorphism-Encapsulation)| [Project 2](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project2)|
