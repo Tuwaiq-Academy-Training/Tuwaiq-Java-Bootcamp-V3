@@ -39,16 +39,16 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 3| 3   |[REST](https://github.com/Tuwaiq-Academy-Training/Java-Relationship)| [Homework 13](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW13)|
 | Week 3| 4   |[Validation](https://github.com/Tuwaiq-Academy-Training/Java-Exceptions-handling-logs-tracking)| [Homework 14](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW14)|
 | Week 3| 5   |[Service Layer](https://github.com/Tuwaiq-Academy-Training/Java-Exercises-2)| [Project 3](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project3)|
-| Week 4| 1   |[Databases Introduction](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)| [Homework 16](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW16)|
-| Week 4| 2   |[Java persistence API (JPA)](https://github.com/Tuwaiq-Java/Capstone-project)| [Homework 17](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW17)|
-| Week 4| 3   |[Repository Layer](https://github.com/Tuwaiq-Java/Capstone-project)| [Homework 18](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW18)|
-| Week 4| 4   |[Controller Advise](https://github.com/Tuwaiq-Java/Capstone-project)| [Homework 19](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW19)|
-| Week 4| 5   |[Exercises](https://github.com/Tuwaiq-Java/Capstone-project)| [Project 4](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project4)|
-| Week 5| 1   |[JPA Relationship I](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 5| 2   |[JPA Relationship II](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 5| 3   |[JPA Relationship III](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
-| Week 5| 4   |[Logs Tracking](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 5| 5   |[Exercises](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 4| 1   |[Databases Introduction](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Databases-Introduction)| [Homework 16](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW16)|
+| Week 4| 2   |[Java persistence API (JPA)](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Java-Persistence-API)| [Homework 17](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW17)|
+| Week 4| 3   |[Repository Layer](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Repository-Layer)| [Homework 18](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW18)|
+| Week 4| 4   |[Controller Advise](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-Controller-Advise)| [Homework 19](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW19)|
+| Week 4| 5   |[Exercises](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-Exercises1)| [Project 4](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project4)|
+| Week 5| 1   |[JPA Relationship I](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-JPA-Relationship-1)|[Homework 21](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW21)|
+| Week 5| 2   |[JPA Relationship II](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-JPA-Relationship-2)|[Homework 22](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW22)|
+| Week 5| 3   |[JPA Relationship III](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-JPA-Relationship-3)|[Homework 23](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW23)|
+| Week 5| 4   |[Logs Tracking](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-Logs)|[Homework 24](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW24)|
+| Week 5| 5   |[Exercises](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-Exercises2)|[Project 5](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project5)|
 | Week 6| 1   |[Spring Security](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
 | Week 6| 2   |[Authentication](https://github.com/Tuwaiq-Java/Capstone-project)|---|
 | Week 6| 3   |[Authorization](https://github.com/Tuwaiq-Java/Capstone-project)|---|
