@@ -49,11 +49,11 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 5| 3   |[JPA Relationship III](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-JPA-Relationship-3)|[Homework 23](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW23)|
 | Week 5| 4   |[Logs Tracking](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-Logs)|[Homework 24](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW24)|
 | Week 5| 5   |[Exercises](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-Exercises2)|[Project 5](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project5)|
-| Week 6| 1   |[Spring Security](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
-| Week 6| 2   |[Authentication](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 6| 3   |[Authorization](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 6| 4   |[JUnit I](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 6| 5   |[JUnit II](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 6| 1   |[Spring Security](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Spring-Security)|[Homework 26](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW26)|
+| Week 6| 2   |[Authentication](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Authentication)|[Homework 27](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW27)|
+| Week 6| 3   |[Authorization](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Authorization)|[Homework 28](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW28)|
+| Week 6| 4   |[JUnit I](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-JUnit-1)|[Homework 29](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW29)|
+| Week 6| 5   |[JUnit II](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-JUnit-2)|[Project 6](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project6)|
 | Week 7| 1   |[Thymeleaf](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
 | Week 7| 2   |[Deployment](https://github.com/Tuwaiq-Java/Capstone-project)|---|
 | Week 7| 3-5   |[Final project](https://github.com/Tuwaiq-Java/Capstone-project)|---|
