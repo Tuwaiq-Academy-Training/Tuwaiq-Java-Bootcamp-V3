@@ -42,12 +42,12 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 4| 1   |[Databases Introduction](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
 | Week 4| 2   |[Java persistence API (JPA)](https://github.com/Tuwaiq-Java/Capstone-project)|---|
 | Week 4| 3   |[Repository Layer](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 4| 4   |[JPA Relationship I](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 4| 5   |[JPA Relationship II](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 5| 1   |[JPA Relationship III](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
-| Week 5| 2   |[Logs Tracking](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 5| 3   |[Exceptions handling](https://github.com/Tuwaiq-Java/Capstone-project)|---|
-| Week 5| 4   |[Controller Advise](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 4| 4   |[Controller Advise](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 4| 5   |[Exercises](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 5| 1   |[JPA Relationship I](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 5| 2   |[JPA Relationship II](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 5| 3   |[JPA Relationship III](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
+| Week 5| 4   |[Logs Tracking](https://github.com/Tuwaiq-Java/Capstone-project)|---|
 | Week 5| 5   |[Exercises](https://github.com/Tuwaiq-Java/Capstone-project)|---|
 | Week 6| 1   |[Spring Security](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
 | Week 6| 2   |[Authentication](https://github.com/Tuwaiq-Java/Capstone-project)|---|
