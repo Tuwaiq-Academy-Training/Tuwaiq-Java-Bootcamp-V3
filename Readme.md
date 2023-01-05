@@ -34,11 +34,11 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 2| 3   |[OOP Principles - Inheritance](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-OOP-Inheritance)| [Homework 8](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW8)|
 | Week 2| 4   |[Abstraction](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Abstraction)| [Homework 9](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW9)|
 | Week 2| 5   |[Polymorphism - Encapsulation](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Polymorphism-Encapsulation)| [Project 2](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project2)|
-| Week 3| 1   |[Introduction to Spring Boot](https://github.com/Tuwaiq-Academy-Training/Java-SQL-Repository-JPA)| [Homework 8](https://github.com/Tuwaiq-Academy-Training/Java-Homework-8)|
-| Week 3| 2   |[Annotations - JSON - Controller layer](https://github.com/Tuwaiq-Academy-Training/Java-JPQL)| [Homework 9](https://github.com/Tuwaiq-Academy-Training/Java-Homework-9)|
-| Week 3| 3   |[REST](https://github.com/Tuwaiq-Academy-Training/Java-Relationship)| [Homework 10](https://github.com/Tuwaiq-Academy-Training/Java-Homework-10)|
-| Week 3| 4   |[Validation](https://github.com/Tuwaiq-Academy-Training/Java-Exceptions-handling-logs-tracking)| [Homework 11](https://github.com/Tuwaiq-Academy-Training/Java-Homework-11)|
-| Week 3| 5   |[Service Layer](https://github.com/Tuwaiq-Academy-Training/Java-Exercises-2)| [Project 3](https://github.com/Tuwaiq-Java/week-03-day-05-hw)|
+| Week 3| 1   |[Introduction to Spring Boot](https://github.com/Tuwaiq-Academy-Training/Java-SQL-Repository-JPA)| [Homework 11](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW11)|
+| Week 3| 2   |[Annotations - JSON - Controller layer](https://github.com/Tuwaiq-Academy-Training/Java-JPQL)| [Homework 12](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW12)|
+| Week 3| 3   |[REST](https://github.com/Tuwaiq-Academy-Training/Java-Relationship)| [Homework 13](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW13)|
+| Week 3| 4   |[Validation](https://github.com/Tuwaiq-Academy-Training/Java-Exceptions-handling-logs-tracking)| [Homework 14](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW14)|
+| Week 3| 5   |[Service Layer](https://github.com/Tuwaiq-Academy-Training/Java-Exercises-2)| [Project 3](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project3)|
 | Week 4| 1   |[Databases Introduction](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
 | Week 4| 2   |[Java persistence API (JPA)](https://github.com/Tuwaiq-Java/Capstone-project)|---|
 | Week 4| 3   |[Repository Layer](https://github.com/Tuwaiq-Java/Capstone-project)|---|
