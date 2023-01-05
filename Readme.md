@@ -40,8 +40,8 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 3| 4   |[Validation](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Validation)| [Homework 14](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW14)|
 | Week 3| 5   |[Service Layer](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Service)| [Project 3](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project3)|
 | Week 4| 1   |[Databases Introduction](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Databases-Introduction)| [Homework 16](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW16)|
-| Week 4| 2   |[Java persistence API (JPA)](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Java-Persistence-API)| [Homework 17](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW17)|
-| Week 4| 3   |[Repository Layer](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Repository-Layer)| [Homework 18](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW18)|
+| Week 4| 2   |[Java persistence API (JPA)](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-JPA-Repository)| [Homework 17](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW17)|
+| Week 4| 3   |[Repository Layer](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-JPA-Repository)| [Homework 18](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW18)|
 | Week 4| 4   |[Controller Advise](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-Controller-Advise)| [Homework 19](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW19)|
 | Week 4| 5   |[Exercises](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-Exercises1)| [Project 4](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project4)|
 | Week 5| 1   |[JPA Relationship I](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-JPA-Relationship-1)|[Homework 21](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW21)|
