@@ -54,8 +54,8 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 6| 3   |[Authorization](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Authorization)|[Homework 28](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW28)|
 | Week 6| 4   |[JUnit I](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-JUnit-1)|[Homework 29](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW29)|
 | Week 6| 5   |[JUnit II](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-JUnit-2)|[Project 6](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project6)|
-| Week 7| 1   |[Thymeleaf](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
-| Week 7| 2   |[Deployment](https://github.com/Tuwaiq-Java/Capstone-project)|---|
+| Week 7| 1   |[Deployment](https://github.com/Tuwaiq-Academy-Training/Java-Spring-security-authentication-and-authorization)|---|
+| Week 7| 2   |[Figma basics](https://github.com/Tuwaiq-Java/Capstone-project)|---|
 | Week 7| 3-5   |[Final project](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Capstone-project)|---|
 | Week 8| 1-5   |[Final project](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Capstone-project)|---|
 
