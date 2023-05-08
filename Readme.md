@@ -30,10 +30,10 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 1| 4   |[Arrays](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Arrays)|[Homework 4](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW4)|
 | Week 1| 5   |[Methods](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Methods) | [Project 1](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project1)|
 | Week 2| 1   |[Types of Errors - Exceptions](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-ErrorsAndExceptions)| [Homework 6](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW6)|
-| Week 2| 2   |[Programming Paradigms](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-ProgramingParadigms)| [Homework 7](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW7)|
-| Week 2| 3   |[OOP Principles - Inheritance](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-OOP-Inheritance)| [Homework 8](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW8)|
+| Week 2| 2   |[Programming Paradigms-OOP Principles(Encapsulation)](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-ProgramingParadigms)| [Homework 7](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW7)|
+| Week 2| 3   |[Inheritance](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-OOP-Inheritance)| [Homework 8](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW8)|
 | Week 2| 4   |[Abstraction](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Abstraction)| [Homework 9](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW9)|
-| Week 2| 5   |[Polymorphism - Encapsulation](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Polymorphism-Encapsulation)| [Project 2](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project2)|
+| Week 2| 5   |[Polymorphism](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Polymorphism-Encapsulation)| [Project 2](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project2)|
 | Week 3| 1   |[Introduction to Spring Boot](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-SpringBoot)| [Homework 11](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW11)|
 | Week 3| 2   |[Annotations - JSON - Controller layer](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Annotations-JSON-Controller)| [Homework 12](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW12)|
 | Week 3| 3   |[REST](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-REST)| [Homework 13](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-HW13)|
